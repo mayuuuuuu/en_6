@@ -11,7 +11,7 @@
     <m1>→効率が悪く、人に危害を与える可能性がある</m1>
   <h3>人が直接触れず一度に多くのオニヒトデを回収できるオニヒトデ回収装置を作ろう！！</h3>
   </div>
-  <img src="https://user-images.githubusercontent.com/93563946/148841328-3ccee05d-83a7-4342-b2f6-c7d06b4129b6.JPG">
+  <img src="https://user-images.githubusercontent.com/93563946/148866860-7d853182-b79a-4918-a4da-4f58c74a506d.png">
   <m1>＜特徴＞</m1>
   <o1>
    <li>オニヒトデを直接触らずに回収でき危害が及ぶリスクが低い</li>
